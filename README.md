@@ -1,7 +1,9 @@
 # Right Now K bbq
-> find Korean bbq near you openning right now
+> find Korean BBQ restaurants open now around you!
 
-This web app helps you find Korean bbq restaurants openning right now around you. Please give us permission to lookup your location. It does never save any personal data. 
+This web app uses web geolocation api to track and show a list of Korean BBQ restaurants nearby. If you feel hungry, then try it out right now! Turn on your locaiton service, then you are good to go. I built this app for myself. My friends and I always have a hard & long time to decide where to go. Since we all crave for Korean BBQ, so we needed a simple list of restaurants that is opening right now and must be nearby. I think this web app can solve our problem. 
+
+(I'm so lazy to filter out all the categories on Yelp. :laughing:)
 
 * [Right Now Kbbq](https://april9288.github.io/rightnowkbbq/) - It's deployed here!
 
