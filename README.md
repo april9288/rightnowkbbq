@@ -1,68 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# rightnow Kbbq
+> find korean bbq near you now openning
 
-## Available Scripts
+This web app helps you find korean bbq restaurants openning right now around you. Please give us permission to lookup your location. It does never save any personal data. 
 
-In the project directory, you can run:
+* [rightnow Kbbq](https://april9288.github.io/rightnowkbbq/) - It's deployed here!
 
-### `npm start`
+<!-- ![](kbbq.gif) -->
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Getting Started
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+If you don't have Node.js setup on your computer, please click below link and download it first.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Node.js](https://nodejs.org/en/) - The official Node.js website to download
 
-### `npm run build`
+### Installing
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you already have Node.js, then follow below step.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+On your terminal:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+cd /c/<folder_path>
+git https://github.com/april9288/rightnowkbbq.git
+cd rightnowkbbq
+npm install
+npm start
 
-### `npm run eject`
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+So it will automatically run in your local server.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Built With
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* [React.js](https://reactjs.org/) - The official React.js website
+* [Yelp API](https://www.yelp.com/developers/documentation/v3/business_search) - Yelp API documentation
+* [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition) - Web API for getting the current position of the device
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Meta
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+James Jongho Kim 
+- [Portfolio](https://april9288.github.io/) - It's my portfolio website
+- [Github](https://github.com/april9288) - This is my Github page
+- [Linkedin](https://www.linkedin.com/in/jongho-kim-b05618170/) - This is my Linkedin page
+- april9288@gmail.com
