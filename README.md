@@ -1,5 +1,5 @@
 # rightnow Kbbq
-> find korean bbq near you now openning
+> find korean bbq near you openning right now
 
 This web app helps you find korean bbq restaurants openning right now around you. Please give us permission to lookup your location. It does never save any personal data. 
 
