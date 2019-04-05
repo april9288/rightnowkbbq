@@ -17,7 +17,7 @@ const codeParsing = (code) => {
 		return (
 			<section className="status-denied status-section">
 				<h2>Permission Denied</h2>
-				<h3>Sorry. Come back again later!</h3>
+				<h3>Please turn on your location service</h3>
 			</section>)
 	}
 }
