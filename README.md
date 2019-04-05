@@ -5,7 +5,7 @@ This web app helps you find Korean bbq restaurants openning right now around you
 
 * [Right Now Kbbq](https://april9288.github.io/rightnowkbbq/) - It's deployed here!
 
-<!-- ![](kbbq.gif) -->
+![](sample.png)
 
 ## Getting Started
 
