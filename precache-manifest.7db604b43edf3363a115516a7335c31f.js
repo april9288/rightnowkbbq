@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/rightnowkbbq/static/js/runtime~main.425d1cc8.js"
   },
   {
-    "revision": "79b6ab3a09e280106149",
-    "url": "/rightnowkbbq/static/js/main.baa7e010.chunk.js"
+    "revision": "b457e06ad4f199506a55",
+    "url": "/rightnowkbbq/static/js/main.969f0e2d.chunk.js"
   },
   {
     "revision": "2099810ee9b5f299a7ad",
     "url": "/rightnowkbbq/static/js/2.60ce64dc.chunk.js"
   },
   {
-    "revision": "79b6ab3a09e280106149",
-    "url": "/rightnowkbbq/static/css/main.40b643e6.chunk.css"
+    "revision": "b457e06ad4f199506a55",
+    "url": "/rightnowkbbq/static/css/main.0d9bd7bd.chunk.css"
   },
   {
-    "revision": "d2d4552ed0c00dd6e47fcd3d0a3a3fb4",
+    "revision": "aa597fbc934f6174f449cc9456eea44a",
     "url": "/rightnowkbbq/index.html"
   }
 ];
