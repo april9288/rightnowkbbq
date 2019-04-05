@@ -3,6 +3,8 @@ import axios from 'axios';
 import Header from './components/Header';
 import Body from './components/Body';
 import Status from './components/Status';
+import Footer from './components/Footer';
+import Scroll from './components/Scroll';
 import './App.css';
 
 class App extends Component {
@@ -55,10 +57,13 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <section className="App">
         <Header />
-        {this.display()}
-      </div>
+        <Scroll>
+          {this.display()}
+        </Scroll>
+        <Footer />
+      </section>
     );
   }
 }

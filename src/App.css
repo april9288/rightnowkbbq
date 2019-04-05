@@ -2,6 +2,11 @@
   text-align: left;
 }
 
+.scroll-content{
+	position: relative;
+	min-height: 100vh;
+}
+
 .header-section{
 	color:white;
     display: flex;
@@ -129,4 +134,35 @@ i{
 .direction-button:hover {
 	background-color: #aa171e;
 	color: white;
+}
+
+
+.footer-section{
+/*	display: flex;
+	justify-content: center;
+	align-items: center;*/
+	position: static;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 10rem;
+	color: white;
+	text-align: center;
+	background-color: #111111;
+	background-image: linear-gradient(180deg, #111111 25%, #000000 100%);
+
+}
+
+.footer-section i{
+	margin: 10px 10px 10px 10px;
+	padding-top: 30px;
+	font-size: 3rem;
+
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+.footer-section i:hover{
+	color: #aa171e;
+	transform: scale(1.2);
 }

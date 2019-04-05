@@ -11,7 +11,7 @@ const dataStatus = (count) => {
 
 
 const Body = ({data, position}) => {
-	const newData = data.sort((a, b) => 0.5 - Math.random())	
+	const newData = data.sort((a, b) => 0.5 - Math.random())
 	return (
 		<section>
 		{dataStatus(newData.length)}

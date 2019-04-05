@@ -1,9 +1,9 @@
-# rightnow Kbbq
-> find korean bbq near you openning right now
+# Right Now K bbq
+> find Korean bbq near you openning right now
 
-This web app helps you find korean bbq restaurants openning right now around you. Please give us permission to lookup your location. It does never save any personal data. 
+This web app helps you find Korean bbq restaurants openning right now around you. Please give us permission to lookup your location. It does never save any personal data. 
 
-* [rightnow Kbbq](https://april9288.github.io/rightnowkbbq/) - It's deployed here!
+* [Right Now Kbbq](https://april9288.github.io/rightnowkbbq/) - It's deployed here!
 
 <!-- ![](kbbq.gif) -->
 
