@@ -1,4 +1,5 @@
 import React from 'react'
+import './Status.css'
 
 const codeParsing = (code) => {
 	if (code === "loading") {
@@ -6,6 +7,7 @@ const codeParsing = (code) => {
 			<section className="status-loading status-section">
 				<h2>Loading!</h2>
 				<h3>Please accept location request!</h3>
+				<h5>Sometimes it might take up to 30 sec. I know but it's a free server. Sorry.</h5>
 			</section>)
 	} else if (code === "bad") {
 		return (

@@ -1,0 +1,12 @@
+/*When data.length === 0*/
+/*No restaurants open now*/
+.count-status-0{
+	text-align: center;
+	color:white;
+}
+
+/*When data.length > 0*/
+.count-status{
+	text-align: center;
+	color:white;
+}

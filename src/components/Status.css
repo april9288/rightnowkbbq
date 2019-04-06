@@ -1,0 +1,17 @@
+.status-section{
+	color: white;
+    display: grid;
+    justify-content: center;
+}
+
+.status-loading{
+	background-color: blueviolet;
+}
+
+.status-bad{
+	background-color: #aa171e;
+}
+
+.status-denied{
+	background-color: #d31a22;
+}

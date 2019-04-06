@@ -14,5 +14,13 @@ code {
     monospace;
 }
 
+a{
+  text-decoration: none;
+  color:white;
+}
 
+i{
+  margin-right: 10px;
+  font-size: 1.2rem;
+}
 

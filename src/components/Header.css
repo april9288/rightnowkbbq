@@ -1,3 +1,13 @@
+.header-section{
+  color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.header-section img{
+  margin: 20px;
+}
+
 .rotate-center {
 	-webkit-animation: rotate-center 3s ease-in-out 1.5s infinite both;
 	        animation: rotate-center 3s ease-in-out 1.5s infinite both;
