@@ -12,11 +12,11 @@ const cardRating = (rating) => {
 
 const Card = ({data, position}) => {
 
-	const { link, image_url, name, review_count, location, phone, rating, distance } = data
+	const { url, image_url, name, review_count, location, phone, rating, distance } = data
 
 	return (
 		<section className="card-section" >
-		<a href={link} rel="noopener noreferrer" target="_blank">
+		<a href={url} rel="noopener noreferrer" target="_blank">
 			  	<div>
 			  		<h3>{name}</h3>
 			  	</div>
