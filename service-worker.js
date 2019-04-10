@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rightnowkbbq/precache-manifest.24f27ab0359877fe3db4f41d28dc807b.js"
+  "/rightnowkbbq/precache-manifest.b9edf268767694342cc11bb0425521ae.js"
 );
 
 workbox.clientsClaim();
